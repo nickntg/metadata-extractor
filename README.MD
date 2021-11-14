@@ -12,6 +12,7 @@ The function can be deployed by using the included profile. You may need to modi
 * Basic Lambda execution rights.
 * Cloudwatch create and post rights.
 * S3 read/write rights.
+
 Once the function is deployed, an S3 Put notification needs to be setup on the S3 bucket(s) with incoming images to be processed.
 
 # Helpful
